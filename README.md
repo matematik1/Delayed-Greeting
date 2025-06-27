@@ -1,4 +1,4 @@
-[![Latest release]([https://img.shields.io/github/v/release/Delayed-Greeting?color=blue&style=flat-square](https://img.shields.io/badge/Release-click-labelColor=0000&logoColor=0eff0e))](https://github.com/matematik1/Delayed-Greeting/releases/latest)
+[![Latest release](https://img.shields.io/badge/Release-click-labelColor=0000&logoColor=0eff0e)](https://github.com/matematik1/Delayed-Greeting/releases/latest)
 
 # Delayed Greeting Application
 
